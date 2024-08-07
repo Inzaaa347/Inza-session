@@ -65,10 +65,10 @@ router.get('/', async (req, res) => {
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❶ || Creator = 𖥘 Inza+++ 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaeRruPom0L
+❷ || WhattsApp Chat = https://chat.whatsapp.com/E4DdSjDChJq3dRJkPYGdAp
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 Please Follow My Support Channel
-Wanna talk to me?👉 https://t.me/boloxex 👈
+Wanna talk to me?👉 https://t.me/Bolox1 👈
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ©*2024-2099 Inza+++*
 
